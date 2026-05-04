@@ -1,4 +1,8 @@
-## Hi there 👋
+## Olá, meu nome é Vitor Moreira Felde, curso TADS (Tecnologia em Análise e Desenvolvimento de Sistemas) no IFPR de Foz do Iguaçu. Incialmente em minha carreira quero ser dev back-end, e no futuro progredir para alguma área de segurança!
+
+## Contatos: 
+## E-mail: feldevitor@gmail.com
+
 
 <!--
 **VitorFelde/VitorFelde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
