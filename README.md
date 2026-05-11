@@ -12,7 +12,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VSCode" width="40" height="40"/>
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=malucodes&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180px"/>
+### :bar_chart: Estatísticas do GitHub
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=malucodes&theme=dark" alt="GitHub Streak" height="180px"/>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark"/>
+</div>
 
