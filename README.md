@@ -2,21 +2,35 @@
 
 ## Contato: E-mail: feldevitor@gmail.com
 
-### :bar_chart: Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=VitorFelde&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=VitorFelde&theme=dark"/>
-</div>
-
-### :hammer_and_wrench: Tecnologias & Ferramentas
-
-<table>
+<table border="0">
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="50" height="50"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40" height="40"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" width="40" height="40"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="40" height="40"/></td>
+    <!-- Lado Esquerdo: Sobre Mim e Estatísticas -->
+    <td width="60%" valign="top">
+      <h3>Sobre mim</h3>
+      <p>Estudante de TADS no IFPR. Almejo ser dev back-end e futuramente atuar na área de segurança!</p>
+        
+
+      <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=VitorFelde&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+        
+  
+
+      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=VitorFelde&theme=dark"/>
+    </td>
+    
+    <!-- Lado Direito: Tecnologias (O Quadro que você queria ) -->
+    <td width="40%" valign="top">
+      <table border="1">
+        <tr>
+          <td align="center">
+            <h3>Tecnologias & Ferramentas</h3>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="35" height="35"/>&nbsp;
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="35" height="35"/>&nbsp;
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="35" height="35"/>&nbsp;
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" width="35" height="35"/>&nbsp;
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="35" height="35"/>
+          </td>
+        </tr>
+      </table>
+    </td>
   </tr>
 </table>
