@@ -5,10 +5,5 @@
 
 ### 🛠 Tecnologias & Ferramentas
 
-<div align="left">
-  <img src="https://jsdelivr.net" height="40" width="52" alt="c logo"  />
-  <img src="https://jsdelivr.net" height="40" width="52" alt="html5 logo"  />
-  <img src="https://jsdelivr.net" height="40" width="52" alt="css3 logo"  />
-  <img src="https://jsdelivr.net" height="40" width="52" alt="javascript logo"  />
-</div>
-
+![Python](https://shields.io)
+![JavaScript](https://shields.io)
