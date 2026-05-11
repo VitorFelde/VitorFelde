@@ -2,7 +2,7 @@
 
 ## Contato: E-mail: feldevitor@gmail.com
 
-###:hammer_and_wrench: Linguagens e Ferramentas
+:hammer_and_wrench: Linguagens e Ferramentas
 
 <div style="display: flex; gap: 10px; align-items: center;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JS" width="35" height="35"/>
