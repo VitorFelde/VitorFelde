@@ -6,15 +6,16 @@
   <tr>
     <!-- Coluna 1: Estatísticas -->
     <td width="50%" valign="top">
-      <h3>:bar_chart: Estatísticas</h3>
-      <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=VitorFelde&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>  
+      <h3>📊 Estatísticas</h3>
+      <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=VitorFelde&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+        
   
 
       <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=VitorFelde&theme=dark"/>
     </td>
     <!-- Coluna 2: Tecnologias -->
     <td width="50%" valign="top">
-      <h3>:hammer_and_wrench: Tecnologias</h3>
+      <h3>🛠️ Tecnologias</h3>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40" height="40"/>&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40" height="40"/>&nbsp;
