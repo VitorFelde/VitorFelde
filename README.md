@@ -2,6 +2,7 @@
 
 ## Contato: E-mail: feldevitor@gmail.com
 
+![C](https://shields.io)
 
 <!--
 **VitorFelde/VitorFelde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
