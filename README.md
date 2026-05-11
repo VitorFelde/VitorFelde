@@ -5,11 +5,9 @@
 ### :hammer_and_wrench: Linguagens e Ferramentas
 
 
-<table border="0">
+<table border="0" display: grid>
   <tr>
     <td width="50%" valign="top">
-      <h3>Sobre mim</h3>
-      Estudante de Ciência da Computação focada em desenvolvimento e resolução de problemas.
     </td>
     <td width="50%" valign="top">
       <h3>Tecnologias & Ferramentas</h3>
