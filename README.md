@@ -3,13 +3,12 @@
   <tr>
     <!-- Lado Esquerdo: Sobre Mim e Estatísticas -->
     <td width="60%" valign="top">
-🙋 Sobre mim
+🙋‍♂️ Sobre mim
 Estudante de TADS no IFPR. Almejo ser dev back-end e futuramente atuar na área de segurança!
 
 🎓 Cursando Tecnologia em Análise e Desenvolvimento de Sistemas (TADS) no IFPR
 💻 Foco em desenvolvimento back-end
 🔐 Interesse em segurança da informação
-🚀 Sempre aprendendo e construindo projetos
 
 <br/>
 <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=VitorFelde&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
