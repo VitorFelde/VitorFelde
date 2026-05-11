@@ -12,7 +12,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VSCode" width="40" height="40"/>
 </div>
 
-### :bar_chart: Estatísticas do GitHub
 
 ### :bar_chart: Estatísticas do GitHub
 
