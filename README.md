@@ -21,8 +21,3 @@
   </tr>
 </table>
 
-### Estatísticas & Atividade
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="165px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO-AQUI&theme=dark" alt="GitHub Streak" height="165px"/>
-</p>
