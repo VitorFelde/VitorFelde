@@ -3,16 +3,25 @@
   <tr>
     <!-- Lado Esquerdo: Sobre Mim e Estatísticas -->
     <td width="60%" valign="top">
-🙋‍♂️ Sobre mim
+🙋 Sobre mim
 Estudante de TADS no IFPR. Almejo ser dev back-end e futuramente atuar na área de segurança!
 
 🎓 Cursando Tecnologia em Análise e Desenvolvimento de Sistemas (TADS) no IFPR
 💻 Foco em desenvolvimento back-end
 🔐 Interesse em segurança da informação
+🚀 Sempre aprendendo e construindo projetos
 
 <br/>
-<img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=VitorFelde&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=VitorFelde&theme=dark"/>
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=VitorFelde&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    </td>
+    <td width="50%">
+      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=VitorFelde&theme=dark"/>
+    </td>
+  </tr>
+</table>
 </td>
 <!-- Lado Direito: Tecnologias -->
 <td width="40%" valign="top" align="center">
@@ -26,7 +35,7 @@ Estudante de TADS no IFPR. Almejo ser dev back-end e futuramente atuar na área 
 <br/><br/>
 
 📊 Linguagens mais usadas
-<img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VitorFelde&layout=compact&theme=dark&langs_count=6"/>
+<img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VitorFelde&layout=compact&theme=dark&langs_count=6"/>
 </td>
   </tr>
 </table>
