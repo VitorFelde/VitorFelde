@@ -5,7 +5,7 @@
     <!-- Lado Esquerdo: Sobre Mim -->
     <td width="55%" valign="top">
 
-### 🙋 Sobre mim
+### Sobre mim
 
 Estudante de TADS no IFPR. Almejo ser dev back-end e futuramente atuar na área de segurança!
 
