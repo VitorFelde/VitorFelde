@@ -2,9 +2,7 @@
 
 ## Contato: E-mail: feldevitor@gmail.com
 
+
 ### 🛠 Tecnologias e Ferramentas
 
-![C](https://shields.io)
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![JavaScript](https://shields.io)
+![C](https://shields.io) ![HTML5](https://shields.io) ![CSS3](https://shields.io) ![JavaScript](https://shields.io)
