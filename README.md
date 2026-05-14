@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou o Vitor</h1>
+<h1 align="center">Oi! Eu sou o Vitor</h1>
 
 <table align="center" width="100%">
   <tr>
