@@ -24,7 +24,7 @@
 <td width="45%" valign="top" align="center">
 
 ### Tecnologias utilizadas
-br/>
+<br/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40" height="40"/>&nbsp;
