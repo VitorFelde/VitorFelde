@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou o Vitor 👋</h1>
+<h1 align="center">Olá! Eu sou o Vitor</h1>
 
 <table align="center" width="100%">
   <tr>
@@ -6,8 +6,6 @@
     <td width="55%" valign="top">
 
 ### Sobre mim
-
-Estudante de TADS no IFPR. Almejo ser dev back-end e futuramente atuar na área de segurança!
 
 - 🎓 Cursando Tecnologia em Análise e Desenvolvimento de Sistemas (TADS) no IFPR
 - 💻 Foco em desenvolvimento **back-end**
