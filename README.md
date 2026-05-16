@@ -7,7 +7,7 @@
 
 ### Sobre mim
 
-- 🎓 Cursando Tecnologia em Análise e Desenvolvimento de Sistemas (TADS) no IFPR
+- 🎓 Cursando Tecnologia em Análise e Desenvolvimento de Sistemas (TADS) no IFPR - 1/6
 - 💻 Almejo ser desenvolvedor **back-end** no inicio de minha carreira
 - 🚀 Sempre aprendendo e construindo projetos
 
