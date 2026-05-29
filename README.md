@@ -13,7 +13,7 @@
 
 <br/>
 
-<img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=VitorFelde&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=fscheidt&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=VitorFelde&theme=dark"/>
 
@@ -48,7 +48,3 @@
 </table>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VitorFelde&color=blue&style=flat-square" alt="Profile views"/>
-</p>
