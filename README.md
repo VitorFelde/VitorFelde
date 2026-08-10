@@ -24,13 +24,14 @@
 
 ### Tecnologias utilizadas
 <br/>
-<img src="https://jsdelivr.net" title="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://jsdelivr.net" title="HTML5" width="40" height="40"/>&nbsp;
-<img src="https://jsdelivr.net" title="CSS3" width="40" height="40"/>&nbsp;
-<img src="https://jsdelivr.net" title="C" width="40" height="40"/>&nbsp;
-<img src="https://jsdelivr.net" title="Java" width="40" height="40"/>&nbsp;
-<img src="https://jsdelivr.net" title="PHP" width="40" height="40"/>&nbsp;
-<img src="https://jsdelivr.net" title="VS Code" width="40" height="40"/>
+<img src="https://githubusercontent.com" title="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://githubusercontent.com" title="HTML5" width="40" height="40"/>&nbsp;
+<img src="https://githubusercontent.com" title="CSS3" width="40" height="40"/>&nbsp;
+<img src="https://githubusercontent.com" title="C" width="40" height="40"/>&nbsp;
+<img src="https://githubusercontent.com" title="Java" width="40" height="40"/>&nbsp;
+<img src="https://githubusercontent.com" title="PHP" width="40" height="40"/>&nbsp;
+<img src="https://githubusercontent.com" title="VS Code" width="40" height="40"/>
+
 
 
 
