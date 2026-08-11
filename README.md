@@ -21,7 +21,7 @@ Sobre mim
 Tecnologias utilizadas
 
 
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python,js,ts,mysql,postgres,docker,git,github,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,c,java,mysql,postgres,docker,git,github,linux,vscode" />
 
 
 
