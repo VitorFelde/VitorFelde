@@ -13,9 +13,9 @@
 
 <br/>
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=VitorFelde&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img width="100%" src="https://vercel.app"/>
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=VitorFelde&theme=dark"/>
+<img width="100%" src="https://herokuapp.com"/>
 
 </td>
 
@@ -24,13 +24,10 @@
 
 ### Tecnologias utilizadas
 <br/>
-<img src="https://githubusercontent.com" title="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://githubusercontent.com" title="HTML5" width="40" height="40"/>&nbsp;
-<img src="https://githubusercontent.com" title="CSS3" width="40" height="40"/>&nbsp;
-<img src="https://githubusercontent.com" title="C" width="40" height="40"/>&nbsp;
-<img src="https://githubusercontent.com" title="Java" width="40" height="40"/>&nbsp;
-<img src="https://githubusercontent.com" title="PHP" width="40" height="40"/>&nbsp;
-<img src="https://githubusercontent.com" title="VS Code" width="40" height="40"/>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev" />
+</a>
 
 <br/><br/>
 
@@ -38,7 +35,7 @@
 
 ### 📊 Linguagens mais usadas
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorFelde&layout=compact&theme=dark&langs_count=6"/>
+<img width="100%" src="https://vercel.app"/>
 
 </td>
   </tr>
