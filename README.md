@@ -15,25 +15,18 @@ Sobre mim
 🚀 Sempre aprendendo e construindo projetos
 
 
-<img width="100%" src="https://github-stats-extended.vercel.app/api?username=VitorFelde&show_icons=true&theme=radical&hide_border=true&bg_color=131722" />   
- <img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=VitorFelde&layout=compact&theme=radical&hide_border=true&bg_color=131722" /> </td> <!-- Lado Direito: Tecnologias + Linguagens --> <td width="45%" valign="top" align="center">
+<img width="100%" src="https://github-stats-extended.vercel.app/api?username=VitorFelde&show_icons=true&theme=radical&hide_border=true&bg_color=131722" /> </td> <!-- Lado Direito: Tecnologias + Linguagens --> <td width="45%" valign="top" align="center">
 
 Tecnologias utilizadas
 
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,c,java,mysql,postgres,docker,git,github,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,c,java" />
 
 
 
+📊 Linguagens mais usadas
 
-
-
-
-
-
-📊 Estatísticas de Contribuição
-
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=VitorFelde&theme=radical&hide_border=true&background=131722" /> </td>
+<img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=VitorFelde&layout=compact&theme=radical&hide_border=true&bg_color=131722" /> </td>
 </tr>
 </table>
 
