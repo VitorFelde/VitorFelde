@@ -21,7 +21,7 @@ Tecnologias utilizadas
 
 
 <img src="https://skillicons.dev/icons?i=github,vscode,ubuntu" />
-<img src="https://img.shields.io/badge/Geany-4F2F2F?style=for-the-badge&logo=geany&logoColor=white" />
+<img width="48px" src="https://raw.githubusercontent.com/VitorFelde/VitorFelde/main/geany.png" onerror="this.src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/geany/geany-original.svg'" />
 
 
 
