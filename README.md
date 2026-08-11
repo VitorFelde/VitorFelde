@@ -20,7 +20,14 @@ Sobre mim
 Tecnologias utilizadas
 
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,c,java" />
+<img src="https://skillicons.dev/icons?i=github,vscode,ubuntu" />
+<img src="https://img.shields.io/badge/Geany-4F2F2F?style=for-the-badge&logo=geany&logoColor=white" />
+
+
+
+
+
+
 
 
 
