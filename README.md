@@ -20,8 +20,10 @@ Sobre mim
 Tecnologias utilizadas
 
 
-<img src="https://skillicons.dev/icons?i=github,vscode,ubuntu" />
-<img width="48px" src="https://raw.githubusercontent.com/VitorFelde/VitorFelde/main/geany.png" onerror="this.src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/geany/geany-original.svg'" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=github,vscode,ubuntu" />
+  <img width="48px" src="https://raw.githubusercontent.com/geany/geany/master/icons/48x48/geany.png" align="top" />
+</div>
 
 
 
