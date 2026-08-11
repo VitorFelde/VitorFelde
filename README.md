@@ -25,9 +25,7 @@
 ### Tecnologias utilizadas
 <br/>
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev" />
-</a>
+<img src="https://skillicons.dev" />
 
 <br/><br/>
 
