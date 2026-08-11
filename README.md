@@ -18,7 +18,7 @@
 ### Tecnologias utilizadas
 
 
-<img src="https://skillicons.dev/i?icon=java,spring,nodejs,express,python,javascript,typescript,mysql,postgresql,docker,git,github,linux,vscode" />
+<img src="https://skillicons.dev/i?icon=java,spring,nodejs,express,python,js,ts,mysql,postgres,docker,git,github,linux,vscode" />
 
 
 
