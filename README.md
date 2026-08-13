@@ -8,11 +8,6 @@ Sobre mim
 •
 🎓 Cursando Tecnologia em Análise e Desenvolvimento de Sistemas (TADS) no IFPR - 2/6
 
-•
-💻 Almejo ser desenvolvedor back-end no início de minha carreira
-
-•
-🚀 Sempre aprendendo e construindo projetos
 
 
 <img width="100%" src="https://github-stats-extended.vercel.app/api?username=VitorFelde&show_icons=true&theme=radical&hide_border=true&bg_color=131722" /> </td> <!-- Lado Direito: Tecnologias + Linguagens --> <td width="45%" valign="top" align="center">
