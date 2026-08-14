@@ -10,7 +10,7 @@ Sobre mim
 
 
 
-<img width="100%" src="https://github-stats-extended.vercel.app/api?username=VitorFelde&show_icons=true&theme=radical&hide_border=true&bg_color=131722" /> </td> <!-- Lado Direito: Tecnologias + Linguagens --> <td width="45%" valign="top" align="center">
+<img width="100%" src="https://github-stats-extended.vercel.app/api?username=fscheidt&show_icons=true&theme=radical&hide_border=true&bg_color=131722" /> </td> <!-- Lado Direito: Tecnologias + Linguagens --> <td width="45%" valign="top" align="center">
 
 Tecnologias utilizadas
 
