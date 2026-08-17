@@ -30,7 +30,7 @@ Tecnologias utilizadas
 
 📊 Linguagens mais usadas
 
-<img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=leodm5674&layout=compact&theme=radical&hide_border=true&bg_color=131722" /> </td>
+<img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=VitorFelde&layout=compact&theme=radical&hide_border=true&bg_color=131722" /> </td>
 </tr>
 </table>
 
