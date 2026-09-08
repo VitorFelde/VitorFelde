@@ -22,12 +22,6 @@ Tecnologias utilizadas
 
 
 
-
-
-
-
-
-
 📊 Linguagens mais usadas
 
 <img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=VitorFelde&layout=compact&theme=radical&hide_border=true&bg_color=131722" /> </td>
@@ -38,11 +32,7 @@ Tecnologias utilizadas
 
 📈​ Atividade
 <p align="left">
-  <img src="https://img.shields.io/endpoint?url=https://lanyard.rest/api/v6/users/VitorFelde?badge=true&activity=Visual%20Studio%20Code" alt="VS Code Status" />
-
-<p align="left">
-
-  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.lanyard.rest%2Fv1%2Fusers%vitorfelde%2Fbadge%3Factivity%3DVisual%2520Studio%2520Code" alt="VS Code Status" />
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.lanyard.rest%2Fv1%2Fusers%2FSEU_DISCORD_ID%2Fbadge%3Factivity%3DVisual%2520Studio%2520Code" alt="VS Code Status" />
 
   <a href="https://github.com/VitorFelde">
     <img src="https://img.shields.io/badge/github-VitorFelde-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile" />
