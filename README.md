@@ -35,9 +35,13 @@ Tecnologias utilizadas
 </table>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/discord-online-5865F2?style=flat-square&logo=discord&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/vscode-coding-1f2428?style=flat-square&logo=visualstudiocode&logoColor=007ACC" />
+  <img src="https://img.shields.io/endpoint?url=https://lanyard.rest/api/v6/users/VitorFelde?badge=true&activity=Visual%20Studio%20Code" alt="VS Code Status" />
 
-  <img src="https://img.shields.io/badge/steam-playing-1b2838?style=flat-square&logo=steam&logoColor=white" />
+  <a href="https://github.com/SEU_USUARIO_GITHUB">
+    <img src="https://img.shields.io/badge/github-seguidores-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VitorFelde&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
 </p>
