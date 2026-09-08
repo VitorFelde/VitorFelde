@@ -37,7 +37,7 @@ Tecnologias utilizadas
 <p align="left">
   <img src="https://img.shields.io/endpoint?url=https://lanyard.rest/api/v6/users/VitorFelde?badge=true&activity=Visual%20Studio%20Code" alt="VS Code Status" />
 
-  <a href="https://github.com/SEU_USUARIO_GITHUB">
+  <a href="https://github.com/VitorFelde">
     <img src="https://img.shields.io/badge/github-seguidores-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile" />
   </a>
 </p>
