@@ -37,11 +37,17 @@ Tecnologias utilizadas
 <p align="left">
   <img src="https://img.shields.io/endpoint?url=https://lanyard.rest/api/v6/users/VitorFelde?badge=true&activity=Visual%20Studio%20Code" alt="VS Code Status" />
 
+<p align="left">
+  <!-- Status dinâmico corrigido do VS Code (Lanyard) -->
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.lanyard.rest%2Fv1%2Fusers%2FSEU_DISCORD_ID%2Fbadge%3Factivity%3DVisual%2520Studio%2520Code" alt="VS Code Status" />
+
+  <!-- Link de atalho direto para o seu perfil do GitHub -->
   <a href="https://github.com/VitorFelde">
     <img src="https://img.shields.io/badge/github-seguidores-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile" />
   </a>
 </p>
 
+<!-- Gráfico de atividades recentes do GitHub -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=VitorFelde&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
 </p>
