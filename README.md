@@ -42,7 +42,7 @@ Tecnologias utilizadas
 
 <p align="left">
 
-  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.lanyard.rest%2Fv1%2Fusers%2F670257706560651264%2Fbadge%3Factivity%3DVisual%2520Studio%2520Code" alt="VS Code Status" />
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.lanyard.rest%2Fv1%2Fusers%vitorfelde%2Fbadge%3Factivity%3DVisual%2520Studio%2520Code" alt="VS Code Status" />
 
   <a href="https://github.com/VitorFelde">
     <img src="https://img.shields.io/badge/github-VitorFelde-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile" />
