@@ -34,3 +34,10 @@ Tecnologias utilizadas
 </tr>
 </table>
 
+<p align="left">
+  <img src="https://img.shields.io/badge/discord-online-5865F2?style=flat-square&logo=discord&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/vscode-coding-1f2428?style=flat-square&logo=visualstudiocode&logoColor=007ACC" />
+
+  <img src="https://img.shields.io/badge/steam-playing-1b2838?style=flat-square&logo=steam&logoColor=white" />
+</p>
