@@ -28,17 +28,3 @@ Tecnologias utilizadas
 </tr>
 </table>
 
-
-
-📈​ Atividade
-<p align="left">
-  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.lanyard.rest%2Fv1%2Fusers%2FSEU_DISCORD_ID%2Fbadge%3Factivity%3DVisual%2520Studio%2520Code" alt="VS Code Status" />
-
-  <a href="https://github.com/VitorFelde">
-    <img src="https://img.shields.io/badge/github-VitorFelde-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VitorFelde&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
-</p>
