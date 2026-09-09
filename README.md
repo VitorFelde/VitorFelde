@@ -17,7 +17,6 @@ Tecnologias utilizadas
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=github,vscode,ubuntu,mint"/>
-  <img width="48px" src="https://raw.githubusercontent.com/geany/geany/master/icons/48x48/geany.png" align="top" />
 </div>
 
 
