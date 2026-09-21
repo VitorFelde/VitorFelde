@@ -16,7 +16,7 @@ Tecnologias utilizadas
 
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=github,vscode,ubuntu,mint,mysql,postgres"/>
+  <img src="https://skillicons.dev/icons?i=github,vscode,ubuntu,mysql,postgres"/>
 </div>
 
 
