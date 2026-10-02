@@ -1,4 +1,4 @@
-<h1 align="center">Hello, i'm Vitor</h1> <table align="center" width="100%">
+<h1 align="center">Hello, I'm Vitor</h1> <table align="center" width="100%">
 <tr>
     <!-- Lado Esquerdo: Sobre Mim -->
     <td width="55%" valign="top">
