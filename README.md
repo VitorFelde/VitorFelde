@@ -13,7 +13,7 @@
 </td>
 <td width="55%" valign="top" align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=VitorFelde&theme=onedark&show_icons=true&hide_border=false&count_private=true" alt="VitorFelde's Stats">
-<br><br>
+<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorFelde&theme=onedark&show_icons=true&hide_border=false&layout=compact" alt="VitorFelde's Top Languages">
 </td>
 </tr>
