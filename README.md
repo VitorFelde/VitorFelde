@@ -6,7 +6,7 @@
 
 <p align="center">About me</p>
 
-<p align="center">•<br>🎓 Studying Systems Analysis and Development at IFPR - 2/6</p>
+<p align="center"><br>🎓 Studying Systems Analysis and Development at IFPR - 2/6</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VitorFelde&theme=onedark&show_icons=true&hide_border=false&count_private=true" alt="VitorFelde's Stats">
