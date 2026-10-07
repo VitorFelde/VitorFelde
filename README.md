@@ -22,7 +22,4 @@ Technologies used
 
 📊 Programming Languages I use the most
 
-<img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=VitorFelde&layout=compact&theme=radical&hide_border=true&bg_color=131722" /> </td>
-</tr>
-</table>
-
+![VitorFelde's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorFelde&theme=onedark&show_icons=true&hide_border=false&layout=compact)
