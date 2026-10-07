@@ -10,7 +10,7 @@ About me
 
 
 
-![VitorFelde's Stats](https://github-readme-stats.vercel.app/api?username=VitorFelde&theme=onedark&show_icons=true&hide_border=false&count_private=true) align="center">
+![VitorFelde's Stats](https://github-readme-stats.vercel.app/api?username=VitorFelde&theme=onedark&show_icons=true&hide_border=false&count_private=true)
 
 Technologies used
 
