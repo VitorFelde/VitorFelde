@@ -24,6 +24,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorFelde&theme=onedark&show_icons=true&hide_border=false&layout=compact" alt="VitorFelde's Top Languages">
 </p>
 
-    </td>
 </tr>
 </table>
