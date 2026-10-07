@@ -10,7 +10,7 @@ About me
 
 
 
-<img width="100%" src="https://github-stats-extended.vercel.app/api?username=VitorFelde&show_icons=true&theme=radical&hide_border=true&bg_color=131722" /> </td> <!-- Lado Direito: Tecnologias + Linguagens --> <td width="45%" valign="top" align="center">
+![VitorFelde's Stats](https://github-readme-stats.vercel.app/api?username=VitorFelde&theme=onedark&show_icons=true&hide_border=false&count_private=true) align="center">
 
 Technologies used
 
