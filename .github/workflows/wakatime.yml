@@ -2,8 +2,8 @@ name: WakaTime Readme
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Executa todos os dias à meia-noite
-  workflow_dispatch: # Permite executar manualmente a partir do separador Actions
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   update-readme:
@@ -11,6 +11,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: athul/wakatime-readme@master
+      - uses: anuraghazra/github-readme-stats@master # Alternativa ativa
         env:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
