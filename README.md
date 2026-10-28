@@ -15,8 +15,8 @@
 
 ## 📊 Weekly Development Breakdown
 
-[![WakaTime Badge](https://wakatime.com/badge/user/current.svg)](https://wakatime.com/)
-
 <p align="center">
-  <img src="https://metrics.lecoq.io/VitorFelde?template=classic&plugin=wakatime&plugin_wakatime_token=${{ secrets.WAKATIME_API_KEY }}&plugin_wakatime_days=7" alt="WakaTime Stats">
+  <a href="https://wakatime.com/@VitorFelde">
+    <img src="https://wakatime.com/badge/user/current.svg" alt="WakaTime Badge">
+  </a>
 </p>
