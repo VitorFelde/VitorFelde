@@ -13,10 +13,7 @@
 
 <p align="center">My coding time and language stats, tracked with WakaTime and updated automatically.</p>
 
-<!--START_SECTION:wakatime-->
-<!--END_SECTION:wakatime-->
-
 ## 📊 Weekly Development Breakdown
 
-
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=VitorFelde)](https://github.com/VitorFelde)
+<!--START_SECTION:wakatime-->
+<!--END_SECTION:wakatime-->
