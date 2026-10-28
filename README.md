@@ -12,7 +12,6 @@
 <h2 align="center">⌨️ Coding Activity</h2>
 
 <p align="center">My coding time and language stats, tracked with WakaTime and updated automatically.</p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=VitorFelde&layout=compact" alt="WakaTime Stats">
+  <img src="https://wakatime.com/badge/user/current.svg" alt="WakaTime Stats">
 </p>
