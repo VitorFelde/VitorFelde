@@ -16,3 +16,5 @@
 ## 📊 Weekly Development Breakdown
 
 ![WakaTime Stats](COLE_O_LINK_SVG_DO_WAKATIME_AQUI)
+
+[![WakaTime Badge](https://wakatime.com/badge/user/current.svg)](https://wakatime.com/)
