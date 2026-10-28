@@ -6,8 +6,7 @@
   <p><b>Technologies used</b></p>
   <img src="https://skillicons.dev/icons?i=github,vscode,ubuntu,mysql,postgres" alt="Technologies">
   <br><br>
- ![languages-card](https://stats.pphat.top/languages?username=VitorFelde&type=card)
-![languages-pie](https://stats.pphat.top/languages?username=VitorFelde&type=pie)
-
+  <img src="https://stats.pphat.top/languages?username=VitorFelde&type=card" alt="Languages Card">
+  <br><br>
+  <img src="https://stats.pphat.top/languages?username=VitorFelde&type=pie" alt="Languages Pie Chart">
 </div>
-
