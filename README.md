@@ -17,4 +17,13 @@
 </p>
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 21 October 2026 - To: 28 October 2026
+
+Total Time: 10 mins
+
+SQL   10 mins               █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
