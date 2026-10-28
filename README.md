@@ -16,5 +16,4 @@
 ## 📊 Weekly Development Breakdown
 
 <!--START_SECTION:wakatime-->
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=VitorFelde)](https://github.com/VitorFelde)
 <!--END_SECTION:wakatime-->
