@@ -1,9 +1,0 @@
-- name: Generate SVG from Vercel API
-        env:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          set -euo pipefail
-          mkdir -p wakatime
-          curl -fsSL "https://wakatime-readme-stats.vercel.app/api/wakatimeStats?api_key=$WAKATIME_API_KEY" \
-            -o wakatime/stats.svg
