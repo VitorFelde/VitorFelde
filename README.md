@@ -12,15 +12,6 @@
 <h2 align="center">⌨️ Coding Activity</h2>
 
 <p align="center">My coding time and language stats, tracked with WakaTime and updated automatically.</p>
+## 📊 Weekly Development Breakdown
 
-<!--START_SECTION:waka-->
-
-```txt
-From: 20 October 2026 - To: 27 October 2026
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
+[![WakaTime Stats](https://github-readme-stats.vercel.app/apiWakaTime?username=VitorFelde)](https://github.com/VitorFelde)
