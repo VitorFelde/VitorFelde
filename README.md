@@ -13,10 +13,6 @@
 
 <p align="center">My coding time and language stats, tracked with WakaTime and updated automatically.</p>
 
-## 📊 Weekly Development Breakdown
-
 <p align="center">
-  <a href="https://wakatime.com/@VitorFelde">
-    <img src="https://wakatime.com/badge/user/current.svg" alt="WakaTime Badge">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=VitorFelde&layout=compact" alt="WakaTime Stats">
 </p>
