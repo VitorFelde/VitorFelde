@@ -14,4 +14,13 @@
 <p align="center">My coding time and language stats, tracked with WakaTime and updated automatically.</p>
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 20 October 2026 - To: 27 October 2026
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
