@@ -14,4 +14,4 @@
 <p align="center">My coding time and language stats, tracked with WakaTime and updated automatically.</p>
 ## 📊 Weekly Development Breakdown
 
-<img src ="(https://github-readme-stats.vercel.app/apiWakaTime?username=YOUR_WAKATIME_USERNAME)](https://github.com/VitorFelde)">
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=VitorFelde)](https://github.com/VitorFelde)
