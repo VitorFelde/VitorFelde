@@ -2,7 +2,7 @@ name: WakaTime Readme
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Atualiza todos os dias à meia-noite
+    - cron: "0 0 * * *" # Executa todos os dias à meia-noite
   workflow_dispatch: # Permite executar manualmente a partir do separador Actions
 
 jobs:
