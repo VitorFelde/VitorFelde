@@ -15,5 +15,4 @@
 
 ## 📊 Weekly Development Breakdown
 
-<!--START_SECTION:wakatime-->
-<!--END_SECTION:wakatime-->
+![WakaTime Stats](COLE_O_LINK_SVG_DO_WAKATIME_AQUI)
