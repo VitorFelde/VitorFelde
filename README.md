@@ -29,3 +29,6 @@ PHP     1 min                 ▓░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+
+![Linguagens mais usadas](https://vercel.app)
