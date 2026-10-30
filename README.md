@@ -16,8 +16,6 @@
   My coding time and language stats, tracked with WakaTime and updated automatically.
 </p>
 
-<img src = "https://github-readme-stats.vercel.app/api?username=VitorFelde&show_icons=true&include_all_commits=true&count_private=true">
-
 <!--START_SECTION:waka-->
 
 ```txt
