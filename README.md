@@ -30,5 +30,7 @@ PHP     1 min                 ▓░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
+<p align="center">
+  <img src="https://vercel.app" alt="Linguagens mais usadas" />
+</p>
 
-![Linguagens mais usadas](https://vercel.app)
