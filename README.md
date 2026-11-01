@@ -31,7 +31,3 @@ Markdown   7 mins                ▓░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-<p align="center">
-  <img src="https://vercel.app" alt="Linguagens mais usadas" />
-</p>
-
