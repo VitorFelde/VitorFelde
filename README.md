@@ -19,14 +19,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 May 2026 - To: 30 October 2026
+From: 02 May 2026 - To: 31 October 2026
 
-Total Time: 3 hrs 50 mins
+Total Time: 6 hrs 5 mins
 
-PHP        3 hrs 31 mins         ████████████████████▓░░░░   82.63 %
-Other      25 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.92 %
-SQL        11 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
-Markdown   7 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
+PHP        3 hrs 31 mins         █████████████▓░░░░░░░░░░░   54.19 %
+Java       2 hrs 6 mins          ████████░░░░░░░░░░░░░░░░░   32.25 %
+Other      25 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.57 %
+SQL        11 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
+Markdown   11 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
+C          4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+CSV        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
