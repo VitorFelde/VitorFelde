@@ -4,8 +4,9 @@ on:
   workflow_dispatch:
 
   schedule:
-    # Executa todos os dias à meia-noite UTC
-    - cron: "0 0 * * *"
+    # Todos os dias às 00:17 UTC
+    # Aproximadamente 21:17 no horário de Brasília
+    - cron: "17 0 * * *"
 
 permissions:
   contents: write
@@ -20,11 +21,7 @@ jobs:
         uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-
-          # Exibe os dados dos últimos seis meses
           TIME_RANGE: last_6_months
-
-          # Configurações visuais
           SHOW_TITLE: true
           LANG_COUNT: 10
           SHOW_TIME: true
